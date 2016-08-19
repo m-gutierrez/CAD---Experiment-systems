@@ -15,7 +15,7 @@ TO ADD
 
 ## twins / Experiment flange
 
-![XFlange](twins/Experiment\ flange/HOATrap.png)
+![XFlange](twins/Experiment\ flange/HOATrap.png=400x)
 
 The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip carrier. This is a standard that our group has used for years, and trap-fabrication groups such as Sandia national labs have standardized between many groups. 
 
@@ -28,6 +28,7 @@ The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip c
 +	Macor support: on top of the rogers CPGA a macor support is placed around the mill-max pins. The macor support has 3 tapped-holes for mounting an adapter to a smar-act 3-axis stage and holds a right-angled mirror which both allows for additional optical access and, primarily, serves as an oven block preventing Sr from being deposited on the majority of the trap surface. 
 [insert image]
 
-+	wiring + support: electrical connections are made to the db connectors via 18awg silver platted wire. We buy kapton coated from accuglass even though we strip the kapton off before assembly. This was the only supplier we could get a small amount of silver platted copper wire from. The silver platting was desired for its reduced RF resistance. This was also the reason for the higher-gauge wire. We typically see RF resistances of 1-3OHms at 50MHz, including DB-feedthrough, wound air-inductor, CPGA-pins + wiring, + trap wire-bonds and connections. The other advantage of the low guage wire is the pcb is completely rigidly supported by the 100x ~1.2in long wires. Connections to the flange db-connectors are made via crimped gold-plated db-pins which are housed in 2 macor db-connectors both from accuglass. Connections to the PCB are made with Sn-Ag solder. 
++	wiring + support: electrical connections are made to the db connectors via ~1.2in long 18awg silver platted copper wire. Flange Connections are made via Accuglass's T-1 contact pins and are held together in an Accuglass db-50 macor housing. PCB-side connections are made using a lead-free Sn-Ag solder Kester PN#24-7068-6401. The silver-platting and low-gauge of the wire was chosen to minimize RF-resistance but also add the benefit of completely supporting the PCB without the need for the planned macor and aluminum supports shown in the image. 
 
-The original mount included 4 aluminum supporting feet which braced the PCB around the CPGA-insertion. But 
+
+
