@@ -15,7 +15,7 @@ TO ADD
 
 ## twins / Experiment flange
 
-![XFlange](twins/Experiment\ flange/HOATrap.png=400x)
+![XFlange](twins/Experiment\ flange/HOATrap.png =400x)
 
 The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip carrier. This is a standard that our group has used for years, and trap-fabrication groups such as Sandia national labs have standardized between many groups. 
 
