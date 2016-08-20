@@ -1,6 +1,6 @@
 #CAD files
 
-Here are all the CAD files I've created for systems through out the lab. Where possible I'll also include assembly and usage photos.
+Here are all the CAD files I've created for systems throughout the lab. Where possible I'll also include assembly and usage photos.
 
 TO ADD
 +	X88 : table + optics + chamber
