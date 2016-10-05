@@ -4,7 +4,7 @@ Here are all the CAD files I've created for systems throughout the lab. Where po
 
 TO ADD
 +	X88 : table + optics + chamber
-+	X88 + twins : oven + oven mount
++	X88 / twins : oven + oven mount
 +	uCavity : chamber + optics
 +	Doubling cavity
 +	Doubling cavity v2
@@ -44,6 +44,8 @@ The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip c
 
 <img src="twins/Experiment complete/Twins_CompleteASM.png" width="400">
 
+Experiment complete contains the complete vacuum system with breadboard, housing, imaging and beam addressing optics. Components should contain Thorlabs or other manufactures PN, feel free to ask if its not clear.
+
 ##Octa-block / Octa flange
 
 <img src="Octa-block/Octa flange/OctaCavityFlangeASM.png" width="400">
@@ -51,4 +53,6 @@ The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip c
 ##Octa-block / complete
 
 <img src="Octa-block/complete/OctaCavity_Optics.png" width="400">
+
+
 
