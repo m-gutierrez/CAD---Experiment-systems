@@ -1,4 +1,4 @@
-#CAD files
+# CAD files
 
 Here are all the CAD files I've created for systems throughout the lab. Where possible I'll also include assembly and usage photos.
 
@@ -20,7 +20,7 @@ TO ADD
 
 The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip carrier. This is a standard that our group has used for years, and trap-fabrication groups such as Sandia national labs have standardized between many groups. 
 
-###Components
+### Components
 
 +	A custom 6in base-flange from accuglass inc, routes all 100-pin's out via two Dsub-50 connectors. These connectors where chosen for their high pin density while still having a small amount of feed-through capacitance (~10pF). The flange also has a centered 1 1/3'' CF port. Allowing the placement of a viewport for optical access through the chip, or to house an oven if optical access is not required. *** For future versions, note that the flange has room for an additional two 1 1/3'' CF ports in the line between the DB connectors. We've considered adding these on future setups for additional wiring outlets, or to have welded 1 1/3'' nipples welded on at 30-45deg for additional optical access. 
 
@@ -31,7 +31,7 @@ The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip c
 
 +	wiring + support: electrical connections are made to the db connectors via ~1.2'' long 18awg silver platted copper wire. Flange Connections are made via Accuglass's T-1 contact pins and are held together in an Accuglass db-50 macor housing. PCB-side connections are made using a lead-free Sn-Ag solder Kester PN#24-7068-6401. The silver-platting and low-gauge of the wire was chosen to minimize RF-resistance but also add the benefit of completely supporting the PCB without the need for the planned macor and aluminum supports shown in the image. 
 
-###Notes
+### Notes
 
 
 
@@ -46,11 +46,11 @@ The experiment is designed around a 100-pin ceramic-pin-grid-array (CPGA) chip c
 
 Experiment complete contains the complete vacuum system with breadboard, housing, imaging and beam addressing optics. Components should contain Thorlabs or other manufactures PN, feel free to ask if its not clear.
 
-##Octa-block / Octa flange
+## Octa-block / Octa flange
 
 <img src="Octa-block/Octa flange/OctaCavityFlangeASM.png" width="400">
 
-##Octa-block / complete
+## Octa-block / complete
 
 <img src="Octa-block/complete/OctaCavity_Optics.png" width="400">
 
